@@ -1,3 +1,4 @@
+## CivicCura-AI
 Project Name: CivicCura
 Tagline: AI-Powered Offline Retinal Diagnostic Network for Primary Screening
 
